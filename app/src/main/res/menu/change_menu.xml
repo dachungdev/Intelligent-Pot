@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/one_plant"
+        android:title="一号花盆"/>
+    <item android:id="@+id/two_plant"
+        android:title="二号花盆"/>
+    <item android:id="@+id/add_plant"
+        android:title="新增"/>
+</menu>
